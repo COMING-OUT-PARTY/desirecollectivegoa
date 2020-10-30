@@ -6,7 +6,7 @@ maptalksConfig.attribution = 'Coming Out Party'
 maptalksConfig.centerCoords = [73.8623472,15.5040444];
 maptalksConfig.centerlat = 15.5040444;
 maptalksConfig.centerlon = 73.8623472;
-maptalksConfig.maxDistanceFromPark = 10000000; // in metres. 
+maptalksConfig.maxDistanceFromPark = 1000; // in metres. 
 maptalksConfig.parkOutlineCoords = [
     [77.21582,28.58991],
     [77.21580,28.59077],   
